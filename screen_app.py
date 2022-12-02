@@ -10,7 +10,7 @@ def screenoverview(signal):
         'Analyst Recom.': 'Hold or better' ,
         'P/E':'Profitable (>0)',
         'Forward P/E': 'Profitable (>0)',
-        'PEG':'Under 2',
+        'PEG':'Under 1',
         'P/S': 'Under 2',
         'P/B':'Under 2',
         'Return on Equity': 'Positive (>0%)',
